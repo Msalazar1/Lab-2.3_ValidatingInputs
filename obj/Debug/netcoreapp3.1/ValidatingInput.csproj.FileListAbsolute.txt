@@ -1,0 +1,13 @@
+C:\Users\msalazar\source\repos\ValidatingInput\bin\Debug\netcoreapp3.1\ValidatingInput.exe
+C:\Users\msalazar\source\repos\ValidatingInput\bin\Debug\netcoreapp3.1\ValidatingInput.deps.json
+C:\Users\msalazar\source\repos\ValidatingInput\bin\Debug\netcoreapp3.1\ValidatingInput.runtimeconfig.json
+C:\Users\msalazar\source\repos\ValidatingInput\bin\Debug\netcoreapp3.1\ValidatingInput.runtimeconfig.dev.json
+C:\Users\msalazar\source\repos\ValidatingInput\bin\Debug\netcoreapp3.1\ValidatingInput.dll
+C:\Users\msalazar\source\repos\ValidatingInput\bin\Debug\netcoreapp3.1\ValidatingInput.pdb
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.csprojAssemblyReference.cache
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.AssemblyInfoInputs.cache
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.AssemblyInfo.cs
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.csproj.CoreCompileInputs.cache
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.dll
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.pdb
+C:\Users\msalazar\source\repos\ValidatingInput\obj\Debug\netcoreapp3.1\ValidatingInput.genruntimeconfig.cache
